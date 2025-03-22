@@ -1,0 +1,9 @@
+fastapi
+pandas
+cv2
+uvicorn
+numpy
+numpy
+pandas
+opencv-python
+streamlit
