@@ -1,6 +1,6 @@
-#project
-modification d'image
+Install the requirements
 
-#installation
-bash
-https://github.com/alpotj/modification-image.git
+$ pip install -r requirements.txt
+Run the app
+
+$ streamlit run streamlit_app.py
